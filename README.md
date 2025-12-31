@@ -8,7 +8,7 @@ Ein Beispiel wie der Detektor eingesetzt werden kann bieten die Messarbeitsblät
 2. Eigenen Forschungsfragen nachgehen: Hypothesen aufstellen, Durchführung planen, Auswerten, Interpretieren
 
 ## Inhalte:
-* Zum Download stehen die Materialien im .pdf und .odt Format parat
+* Zum Download stehen die Materialien im .pdf und .odt Format parat <img align="right" width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/bda843cd-a37a-4d75-a426-44d2dc79fefb" />
 * Anpassung der Materialien im .odt Format für den eigenen Workshop
 
 ## Weiterführende Links:
@@ -16,7 +16,7 @@ Ein Beispiel wie der Detektor eingesetzt werden kann bieten die Messarbeitsblät
 * [WaveWatch](https://github.com/rojinaks/diy-particle-detector-V2)  (Programm zur Visualisierung und Analyse des Detektorsignals)
 
 ## Bekannte Probleme/ Ausstehende Probleme:
-Die Hardware auf der Seite von [Rojin Aksu](https://github.com/rojinaks/diy-particle-detector-V2) ist derzeit nur Version 2.4.
+Die Hardware auf dem GitHub von [Rojin Aksu](https://github.com/rojinaks/diy-particle-detector-V2) beinhaltet derzeit nur Version 2.4.
 Wir arbeiten daran, dass demnächst die Version 2.5 hochgeladen wird, wie sie auch in der Anleitung verwendet wird.
 
 Für das Verwenden der Begleitmaterialien wird noch eine Handreichung für Personen, die einen Workshop selber abhalten wollen, benötigt.
