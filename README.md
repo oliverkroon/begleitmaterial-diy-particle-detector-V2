@@ -11,9 +11,12 @@ Ein Beispiel wie der Detektor eingesetzt werden kann bieten die Messarbeitsblät
 * Zum Download stehen die Materialien im .pdf und .odt Format parat
 * Anpassung der Materialien im .odt Format für den eigenen Workshop
 
+## Weiterführende Links:
+* [DIY Teilchendetektor V2](https://github.com/rojinaks/diy-particle-detector-V2)
+* [WaveWatch](https://github.com/rojinaks/diy-particle-detector-V2)  (Programm zur Visualisierung und Analyse des Detektorsignals)
 
 ## Bekannte Probleme/ Ausstehende Probleme:
-Die Hardware auf der Seite von [Rojin Aksu]([https://pages.github.com/](https://github.com/rojinaks/diy-particle-detector-V2)) ist derzeit nur Version 2.4.
+Die Hardware auf der Seite von [Rojin Aksu](https://github.com/rojinaks/diy-particle-detector-V2) ist derzeit nur Version 2.4.
 Wir arbeiten daran, dass demnächst die Version 2.5 hochgeladen wird, wie sie auch in der Anleitung verwendet wird.
 
 Für das Verwenden der Begleitmaterialien wird noch eine Handreichung für Personen, die einen Workshop selber abhalten wollen, benötigt.
