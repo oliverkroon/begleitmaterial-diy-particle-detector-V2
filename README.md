@@ -17,7 +17,7 @@ Ein Beispiel wie der Detektor eingesetzt werden kann bieten die Messarbeitsblät
 * [DIY Teilchendetektor V2](https://github.com/rojinaks/diy-particle-detector-V2)
 * [WaveWatch](https://github.com/rojinaks/diy-particle-detector-V2)  (Programm zur Visualisierung und Analyse des Detektorsignals)
 
-## Bekannte Probleme/ Ausstehende Probleme:
+## Bekannte Probleme/ Ausstehende Features:
 Die Hardware auf dem GitHub von [Rojin Aksu](https://github.com/rojinaks/diy-particle-detector-V2) beinhaltet derzeit nur Version 2.4.
 Wir arbeiten daran, dass demnächst die Version 2.5 hochgeladen wird, wie sie auch in der Anleitung verwendet wird.
 
