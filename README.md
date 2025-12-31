@@ -8,8 +8,10 @@ Ein Beispiel wie der Detektor eingesetzt werden kann bieten die Messarbeitsblät
 2. Eigenen Forschungsfragen nachgehen: Hypothesen aufstellen, Durchführung planen, Auswerten, Interpretieren
 
 ## Inhalte:
-* Zum Download stehen die Materialien im .pdf und .odt Format parat <img align="right" width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/bda843cd-a37a-4d75-a426-44d2dc79fefb" />
+* Zum Download stehen die Materialien im .pdf und .odt Format parat <img align="right" width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/bda843cd-a37a-4d75-a426-44d2dc79fefb" />
 * Anpassung der Materialien im .odt Format für den eigenen Workshop
+<br>
+<br>
 
 ## Weiterführende Links:
 * [DIY Teilchendetektor V2](https://github.com/rojinaks/diy-particle-detector-V2)
