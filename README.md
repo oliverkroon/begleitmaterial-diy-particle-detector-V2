@@ -20,3 +20,5 @@ Die Hardware auf der Seite von [Rojin Aksu](https://github.com/rojinaks/diy-part
 Wir arbeiten daran, dass demnächst die Version 2.5 hochgeladen wird, wie sie auch in der Anleitung verwendet wird.
 
 Für das Verwenden der Begleitmaterialien wird noch eine Handreichung für Personen, die einen Workshop selber abhalten wollen, benötigt.
+
+Eine englische Version würde die Reichweite dieses Projekts erweitern. 
